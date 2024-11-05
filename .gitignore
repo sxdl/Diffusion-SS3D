@@ -3,6 +3,7 @@ pointnet2/
 results/
 sunrgbd/sunrgbd_pc_bbox_votes_50k_v1_train
 sunrgbd/sunrgbd_pc_bbox_votes_50k_v1_val
+scannet/scannet_train_detection_data
 __pycache__/
 wandb/
 *.log
